@@ -6,9 +6,9 @@ Name of restaurant- Central perk
 https://umaswasthika.github.io/project-nexus/
 
 ## Used:
-HTML5
-CSS
-Javascript
+- HTML5
+- CSS
+- Javascript
 
 ## ✨ Features
 
