@@ -3,7 +3,7 @@
 Name of restaurant- Central perk
 
 ##Live Demo - 
-https://umaswasthika.github.io/project-nexus/
+https://umaswasthika.github.io/Restaurant-website/
 
 ## Used:
 - HTML5
