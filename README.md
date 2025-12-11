@@ -3,7 +3,7 @@
 Name of restaurant- Central perk
 
 ##Live Demo - 
-https://umaswasthika.github.io/Restaurant-website/
+https://umaswasthika.github.io/Restaurant-Website/
 
 ## Used:
 - HTML5
